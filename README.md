@@ -1,1 +1,1 @@
-# Wi-Pose
+# Wi-Pose dataset
