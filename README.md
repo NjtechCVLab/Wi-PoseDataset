@@ -1,1 +1,1 @@
-# Wi-Pose dataset
+# Wi-Pose dataset will be publicly available.
